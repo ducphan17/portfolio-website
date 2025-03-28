@@ -9,7 +9,7 @@ export function Hero() {
       <div className="container mx-auto px-4">
         <div className="max-w-3xl">
           <h1 className="text-4xl md:text-6xl font-bold tracking-tight mb-6">
-            Hi, I'm <span className="text-primary">Tien Phan</span>
+            Hi, I am <span className="text-primary">Tien Phan</span>
             <br />
             <span className="text-3xl md:text-5xl">Frontend Developer</span>
           </h1>

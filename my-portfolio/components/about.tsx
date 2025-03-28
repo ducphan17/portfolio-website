@@ -31,7 +31,7 @@ export function About() {
             </p>
             <p className="text-muted-foreground mb-6">
               My journey in web development started when I built my first
-              website in college. Since then, I've worked with various
+              website in college. Since then, I have worked with various
               technologies and frameworks, always striving to stay updated with
               the latest industry trends and best practices.
             </p>

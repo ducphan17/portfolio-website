@@ -1,9 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
-  // swcMinify: true,
-  // You can keep all your existing configuration here
-  output: "export", // This enables static export
+  swcMinify: true,
+  output: "export", // Ensure static export is enabled
 };
 
 module.exports = nextConfig;
