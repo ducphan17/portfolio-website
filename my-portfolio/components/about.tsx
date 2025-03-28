@@ -24,7 +24,7 @@ export function About() {
           <div className="md:w-1/2">
             <h2 className="text-3xl font-bold mb-6">About Me</h2>
             <p className="text-muted-foreground mb-4">
-              I'm a passionate frontend developer with a strong foundation in
+              Im a passionate frontend developer with a strong foundation in
               building modern web applications. With experience in full-stack
               development, specialize in creating responsive, accessible, and
               performant user interfaces.
@@ -60,7 +60,7 @@ export function About() {
               variant="outline"
               className="flex items-center gap-2"
             >
-              <Link href="/Tien's Resume.pdf" download>
+              <Link href="/Tiens Resume.pdf" download>
                 <Download className="h-4 w-4" />
                 Download Resume
               </Link>

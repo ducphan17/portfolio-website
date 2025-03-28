@@ -28,7 +28,7 @@ export function Contact() {
     e.preventDefault();
     // Here you would typically send the form data to your backend or email service
     console.log("Form submitted:", formData);
-    alert("Thank you for your message! I'll get back to you soon.");
+    alert("Thank you for your message! I will get back to you soon.");
     setFormData({ name: "", email: "", subject: "", message: "" });
   };
 

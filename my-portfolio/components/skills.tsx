@@ -66,8 +66,8 @@ export function Skills() {
         <div className="text-center mb-12">
           <h2 className="text-3xl font-bold mb-4">My Skills</h2>
           <p className="text-muted-foreground max-w-2xl mx-auto">
-            I've worked with a variety of technologies and tools throughout my
-            career. Here's a snapshot of my technical expertise.
+            I have worked with a variety of technologies and tools throughout my
+            career. Here is a snapshot of my technical expertise.
           </p>
         </div>
 
